@@ -147,6 +147,19 @@ header {
 	border-radius: 100%;
 
 }
+.dot_selected {
+	background-color: #fff;
+}
+/* Fin du code CSS pour le carousel */
+#banner p {
+	font-family: 'Roboto Slab', sans-serif;
+	font-weight: 900;
+	font-size: 50px;
+	line-height: 66px;
+	color: white;
+	text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+	text-align: center;
+}
 #banner span {
 	display: block;
 	font-weight: 400;
